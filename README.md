@@ -26,13 +26,5 @@ Enjoys learning new Web Standards as they gain browser support.</p>
 
 <h3 align="left">Languages and Tools:</h3>
 
-* Javascript
-* Typescript
-* Angular
-* Ionic
-* NodeJS
-* NestJS
-* Git & Gitlab
-* Adobe XD
-* Adobe Photoshop
-* Adobe Illustrator
+
+`Javscript` `Typescript` `Angular` `Ionic` `Jasmine` `NodeJS` `NestJS` `Git` `Gitlab` `HTML` `CSS` `SCSS` `Adobe XD` `Adobe Photoshop`
