@@ -24,7 +24,7 @@ Enjoys learning new Web Standards as they gain browser support.</p>
 
 <br />
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Tech stack:</h3>
 
 
 `Javscript` `Typescript` `Angular` `Ionic` `Jasmine` `NodeJS` `NestJS` `Git` `Gitlab` `HTML` `CSS` `SCSS` `Adobe XD` `Adobe Photoshop`
