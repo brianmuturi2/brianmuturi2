@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<br />
+
+<p><img align="right" src="https://github.com/brianmuturi2/brianmuturi2/blob/main/profile-animation.gif" alt="profile-animatoin"/></p>
+<p align="left">A Front-end Developer with over 3-years of experience in designing, developing, and testing user interfaces creatively to solve business and technology challenges.
+Developed web applications using Angular framework and hybrid applications using Ionic Angular framework, prototyped and designed web and mobile applications using Adobe XD. Developed personal projects with NodeJs and Nest JS. Strong understanding of JavaScript, HTML, and CSS fundamentals.
+Enjoys learning new Web Standards as they gain browser support.</p>
+
+<br />
+
+<h3 align="left">Languages and Tools:</h3>
+
+* Javascript
+* Typescript
+* Angular
+* Ionic
+* NodeJS
+* NestJS
+* Git & Gitlab
+* Adobe XD
+* Adobe Photoshop
+* Adobe Illustrator
