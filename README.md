@@ -27,4 +27,4 @@ Enjoys learning new Web Standards as they gain browser support.</p>
 <h3 align="left">Tech stack:</h3>
 
 
-`Javascript` `Typescript` `Angular` `Ionic` `Jasmine` `NodeJS` `NestJS` `Git` `Gitlab` `HTML` `CSS` `SCSS` `BEM` `Adobe XD` `Adobe Photoshop`
+`Javascript` `Typescript` `Angular` `React` `Ionic` `Jasmine` `NodeJS` `NestJS` `Git` `Gitlab` `HTML` `CSS` `SCSS` `BEM` `Adobe XD` `Adobe Photoshop`
