@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <!--<p><img align="right" src="https://github.com/brianmuturi2/brianmuturi2/blob/main/profile-animation.gif" alt="profile-animation" width="200"/></p>-->
 <p align="left">Brian is a Frontend Developer with over 3 years of experience designing, developing, and testing user interfaces creatively to solve business and technology challenges.
-Developed web applications using Angular, React framework, and hybrid applications using Ionic framework. Prototyped and designed web and mobile applications using Adobe XD. Developed personal projects with NodeJs and Nest JS. Strong understanding of JavaScript, HTML, and CSS fundamentals.
+Has developed web applications using Angular, React framework, and hybrid applications using Ionic framework. Has prototyped and designed web and mobile applications using Adobe XD. Has developed personal projects with NodeJs and Nest JS. Strong understanding of JavaScript, HTML, and CSS fundamentals.
 Enjoys learning new Web Standards as they gain browser support.</p>
 
 <br />
